@@ -1,0 +1,22 @@
+{
+  "name": "ravelcord",
+  "version": "1.0.0",
+  "description": "A Discord bot that connects to Ravelry, a knitting and crochet pattern database.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mindfuzz9999/Ravelcord.git"
+  },
+  "author": "mindfuzz9999",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mindfuzz9999/Ravelcord/issues"
+  },
+  "homepage": "https://github.com/mindfuzz9999/Ravelcord#readme",
+  "dependencies": {
+    "discord.js": "^14.19.3"
+  }
+}
